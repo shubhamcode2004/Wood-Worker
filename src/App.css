@@ -161,20 +161,20 @@ form button {
     z-index: 2;
 }
 
-.nav a {
+.nav b {
     color: gold;
+    cursor: pointer;
 }
 
 .navbar {
     background: black;
 }
 
-.nav a :hover {
+.nav b :hover {
     color: aqua;
 }
 
 .nav {
-
     background: black;
 }
 
