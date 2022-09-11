@@ -5,7 +5,7 @@ function FeedBack() {
     <>
       <div className='bg-dark my-3'><br />
         <h2 className='text-center'><strong>Support / Feedback</strong></h2><br />
-        <form action="https://formsubmit.co/privatestartup2004@gmail.com" method="POST">
+        <form action="https://formsubmit.co/privatestartup2004@gmail.com" method="POST" target='_blank'>
           <div className="area text-center">
             <label htmlFor="fullName" className="form-label"></label>
             <input type="text" placeholder="Full Name" id="fullName" name="Full&nbsp;Name" required />
