@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Wood-Worker/static/css/main.9511b7a2.css",
-    "main.js": "/Wood-Worker/static/js/main.5418e11c.js",
+    "main.js": "/Wood-Worker/static/js/main.6ab43e9f.js",
     "static/js/787.370a933e.chunk.js": "/Wood-Worker/static/js/787.370a933e.chunk.js",
     "index.html": "/Wood-Worker/index.html",
     "main.9511b7a2.css.map": "/Wood-Worker/static/css/main.9511b7a2.css.map",
-    "main.5418e11c.js.map": "/Wood-Worker/static/js/main.5418e11c.js.map",
+    "main.6ab43e9f.js.map": "/Wood-Worker/static/js/main.6ab43e9f.js.map",
     "787.370a933e.chunk.js.map": "/Wood-Worker/static/js/787.370a933e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9511b7a2.css",
-    "static/js/main.5418e11c.js"
+    "static/js/main.6ab43e9f.js"
   ]
 }
