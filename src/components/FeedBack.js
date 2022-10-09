@@ -41,7 +41,7 @@ function FeedBack() {
                 aria-label="Facebook" rel="noreferrer"><i className="fab fa-facebook"></i></a>
             </li>
             <li>
-              <a href="https://www.instagram.com/devil_since1985/" target="_blank" aria-label="Instagram"
+              <a href="https://www.instagram.com/shubhamcode2004/" target="_blank" aria-label="Instagram"
                 rel="noreferrer"><i className="fab fa-instagram"></i></a>
             </li>
           </ul>
